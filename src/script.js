@@ -4,7 +4,7 @@ canvas.height = window.innerHeight
 
 let ctx = canvas.getContext("2d")
 
-const Number_of_Balls = 35
+const Number_of_Balls = 25
 const FPS = 25
 
 
