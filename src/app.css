@@ -1,0 +1,10 @@
+#container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to right, #F7BB97, #DD5E89);
+    width: 100vw; /* Use viewport width instead of a fixed value */
+    height: 100vh; /* Use viewport height instead of a fixed value */
+}
+
+
